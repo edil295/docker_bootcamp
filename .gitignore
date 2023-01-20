@@ -1,4 +1,8 @@
-venv/
-app/entrypoint.sh
-app/db.sqlite3
-.idea/
+#venv/
+#app/entrypoint.sh
+#app/entrypoint.prod.sh
+#app/db.sqlite3
+#.idea/
+#.env.prod
+#.env.prod.db
+
